@@ -1,1 +1,1 @@
-web: gunicorn lods.wsgi
+web: gunicorn umay.wsgi
